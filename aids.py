@@ -1,0 +1,1 @@
+print("aids CHAMPIONS"*3)
